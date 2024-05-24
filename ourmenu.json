@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "664afe01fb519f72155ddd05",
+    "name": "Hot Drinks Coffee",
+    "image": "https://barns.com.sa/public/assets/manage_store/images/product/additional/1605194919.png",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "664afe2dfb519f72155ddd07",
+    "name": "Cold Drinks Coffee",
+    "image": "https://barns.com.sa/public/assets/manage_store/images/product/additional/1605440013.png",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "664afec5fb519f72155ddd0a",
+    "name": "Tea",
+    "image": "https://barns.com.sa/public/assets/manage_store/images/product/additional/1612183091.png",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "664afef8fb519f72155ddd0d",
+    "name": "Tin Can",
+    "image": "https://barns.com.sa/public/assets/manage_store/images/product/additional/1671993352.png",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "664aff2efb519f72155ddd10",
+    "name": "Pastries",
+    "image": "https://barns.com.sa/public/assets/manage_store/images/product/additional/1612268480.png",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "664b48ee1c70166754067450",
+    "name": "Sachests",
+    "image": "https://barns.com.sa/public/assets/manage_store/images/product/additional/1671993663.png",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "664b49451c70166754067454",
+    "name": "Coffee Beans Whole or Ground",
+    "image": "https://barns.com.sa/public/assets/manage_store/images/product/additional/1671981291.jpg",
+    "isActive": true,
+    "__v": 0
+  },
+  {
+    "_id": "664b49731c70166754067456",
+    "name": "Accessories",
+    "image": "https://barns.com.sa/public/assets/manage_store/images/product/additional/1671980328.png",
+    "isActive": true,
+    "__v": 0
+  }
+]
