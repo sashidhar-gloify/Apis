@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "productAttribute": {
+    "_id": "664de37f4767bfab8d290a27",
+    "product_description": {
+      "Serving Per Container": "1",
+      "Carbohydrates": "0 g",
+      "Cholesterol": "0 Mg",
+      "Potassium": "01",
+      "Calories": "6.9",
+      "Fat": "0g",
+      "Sodium": "0 Mg"
+    },
+    "sizes": [
+      {
+        "size": "Regular",
+        "price": 12,
+        "_id": "664de37f4767bfab8d290a28"
+      },
+      {
+        "size": "Medium",
+        "price": 24,
+        "_id": "664de37f4767bfab8d290a29"
+      },
+      {
+        "size": "Large",
+        "price": 36,
+        "_id": "664de37f4767bfab8d290a2a"
+      }
+    ],
+    "allergens": [
+      "Grain"
+    ],
+    "__v": 0
+  }
+}
